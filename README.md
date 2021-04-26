@@ -1,0 +1,1 @@
+# Clojure Internship test task
